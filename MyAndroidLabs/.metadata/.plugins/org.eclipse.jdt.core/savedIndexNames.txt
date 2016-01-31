@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/romankozar/Desktop/MyAndroidLabs/.metadata/.plugins/org.eclipse.jdt.core
+1270315800.index
+989229952.index
+4138912442.index
+3927879410.index

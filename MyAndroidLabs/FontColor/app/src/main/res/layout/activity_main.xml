@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/modtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Input Text"
+        android:textSize="30sp"
+        />
+
+    <EditText
+        android:id="@+id/edtext"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="*****"
+        android:textSize="38sp"
+        />
+
+    <Button
+        android:id="@+id/change"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change the color"
+        />
+
+    <Button
+        android:id="@+id/move"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter text to the form"
+        />
+
+</LinearLayout>
